@@ -12,4 +12,4 @@ Produces a snapshot of all running processes in your system
 
 # mv
 
-To move and rename files and directories.
+To move and rename files and directories
